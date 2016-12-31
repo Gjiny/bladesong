@@ -1,0 +1,136 @@
+/*
+  css Datei copyright by ilch.de
+  erstellt von Gjiny
+  seite: www.wow.pytalhost.de
+
+  --
+
+  Design copyright by ilch.de
+  erstellt von 
+  seite: 
+
+  --
+
+  Support auf www.ilch.de
+*/
+
+body
+
+*
+{
+	font-family: Verdana;
+	font-size: 12px:
+}   
+
+h1
+{
+  font-family: WoW SlF !important;
+  text-align: center;
+  color: #C0C0B2;
+  text-shadow: -2px -3px #333333;
+}
+
+h2
+{
+  font-family: FF Brokenscript, sans-serif ;
+  font-weight: bold;
+}
+
+h3
+{
+  font-family: Element, sans-serif ;
+}
+
+p#race
+{
+text-transform: uppercase;
+letter-spacing: 0.2em;
+text-align: center
+}
+
+#seite
+{
+font-family: WoW SlF;
+text-align: center;
+text-transform: uppercase;
+letter-spacing: 0.2em;
+text-align: center
+}
+
+.rasse
+{ 
+  color: #B299B2; 
+	font-family: Verdana; 
+	font-size: 11px; 
+	text-transform: capitalize;
+	text-decoration: none; 
+	word-spacing: 3em;
+	text-align: center
+}
+
+img.race
+{
+width: 300px !important;
+height: 225px;
+
+}
+
+img.race.center
+{
+width: 300px !important;
+height: 225px;
+display: block;
+margin-left: auto;
+margin-right: auto 
+}
+
+img.race.left
+{
+width: 400px !important;
+height: 283px;
+float: left;
+margin-right: 30px;
+}
+
+img.race.right
+{
+width: 400px !important;
+height: 283px;
+float: right;
+margin-left: 30px;
+}
+
+.beschreibung 
+{
+text-align: justify
+}
+
+li>a
+{
+
+}
+
+p a:link
+{/*rosa*/
+color: #B299B2;
+text-decoration: none;
+}
+
+p a:visited
+{/*chocolate3*/
+color: #CD661D;
+text-decoration: none;
+}
+
+p a:hover
+{/*saddle chocolade*/
+color: #8B4513;
+text-decoration: none;
+}
+
+p a:active
+{/*dunkelgruen*/
+color: #006400;
+text-decoration: none;
+}
+
